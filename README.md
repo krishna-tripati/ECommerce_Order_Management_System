@@ -7,7 +7,7 @@ Features
 - Product Management: Create, retrieve, update, delete, and search products by name and category. <br>
 - Customer Management: Customer registration, profile management, retrieval, and search.<br>
 - Order Management: Create orders containing multiple products with server-side total price calculation.<br>
-- Inventory Management: Validate product availability, automatically update stock during order creation, and restore stock when eligible orders are cancelled.<
+- Inventory Management: Validate product availability, automatically update stock during order creation, and restore stock when eligible orders are cancelled.<br>
 - Payment Management: Simulated payment processing with duplicate payment prevention and order status updates.<br>
 - Order Tracking: Retrieve orders by order ID, customer ID, and view all orders.<br>
 - Validation & Exception Handling: Implemented DTO-based request validation and custom global exception handling.<br>
